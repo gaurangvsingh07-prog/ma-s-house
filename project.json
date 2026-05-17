@@ -1,0 +1,20 @@
+{
+  "overview": "Professional website for Ma's House Chinese Cuisine Restaurant in Palava City, Thane — featuring a full menu, hours, location, and WhatsApp contact with a warm red and gold design.",
+  "features": [
+    "Hero section with 4.9-star rating and CTAs",
+    "Full menu with categories, dishes, and prices in ₹",
+    "Location page with address, hours, and Google Maps link",
+    "WhatsApp contact button for reservations",
+    "Responsive design for mobile and desktop",
+    "Warm red and gold visual theme"
+  ],
+  "category": "restaurant-food",
+  "tags": [
+    "restaurant",
+    "chinese-cuisine",
+    "palava-city",
+    "menu",
+    "food"
+  ],
+  "last_updated": "2026-04-14T09:49:49.003Z"
+}
